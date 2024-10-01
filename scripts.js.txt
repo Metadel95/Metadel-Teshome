@@ -1,0 +1,2 @@
+// You can add JavaScript functionality here (e.g., a contact form validation)
+console.log("Portfolio Website Loaded");
